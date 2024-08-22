@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_laptop_keyboards",
+  "info": {
+    "displayName": "keyboard"
+  },
+  "options": {},
+  "attributes": {
+    "keyboard": {
+      "type": "string"
+    },
+    "price": {
+      "type": "decimal"
+    }
+  }
+}
